@@ -7,7 +7,7 @@ layout: page
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
 
-**Welcome to LOMS!**.<br>
+**Welcome to LOMS!**<br>
 
 
 Welcome to the homepage of our research group--the lab of Optoelectronic Materials Simulation! We are a dedicated team exploring the cutting edge of organic optoelectronic materials, with a particular focus on organic light-emitting materials (OLEDs). Our mission is to advance the development of next-generation display materials and technologies, lighting, and other optoelectronic applications through high-throughput computational techniques and artificial intelligence. By leveraging state-of-the-art computational chemistry and machine learning, we aim to accelerate the discovery and optimization of materials that are both efficient and sustainable.
