@@ -4,7 +4,7 @@ layout: page
 
 # About Yanan and LOMS
 
-<img src="https://yanan-loms.github.io/pictures/Yanan.jpg" class="floatpic">
+<img src="https://yanan-loms.github.io/images/Yanan.jpg">
 
 
 **Welcome to LOMS!**<br>
