@@ -9,6 +9,7 @@ layout: page
 
 **Welcome to LOMS!**<br>
 
+<p style="text-align: justify;">
 
 Welcome to the homepage of our research group--the lab of Optoelectronic Materials Simulation! We are a dedicated team exploring the cutting edge of organic optoelectronic materials, with a particular focus on organic light-emitting materials (OLEDs). Our mission is to advance the development of next-generation display materials and technologies, lighting, and other optoelectronic applications through high-throughput computational techniques and artificial intelligence. By leveraging state-of-the-art computational chemistry and machine learning, we aim to accelerate the discovery and optimization of materials that are both efficient and sustainable.
 
@@ -20,6 +21,7 @@ Our research centers on the intersection of chemistry, materials science, and ar
 
 Our team consists of talented researchers and students with expertise in computational chemistry, material science, and artificial intelligence. Together, we strive to push the boundaries of organic electronics and contribute to the advancement of display and lighting technologies. We foster an open, collaborative environment that encourages creativity and innovation. Whether you are a student, researcher, or industry partner, we are always eager to discuss potential collaborations and explore new ideas.
 
+</p>
 
 
 I am an associated Professor in the Faculty of Materials Science at the Shenzhen MSU-BIT University, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
